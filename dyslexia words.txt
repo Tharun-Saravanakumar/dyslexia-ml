@@ -1,0 +1,103 @@
+Age 5
+
+1. cat, dog, bat, bag, pan, pen, sun, bun, fun, run,
+2. cup, pup, top, mop, hop, log, fog, jog, box, fox,
+3. hat, mat, rat, sat, cap, tap, nap, map, lap, gap, 
+4. bed, red, led, net, pet, wet, jet, sit, fit, bit, 
+5. pit, kit, pig, big, dig, wig, fig, lip, sip, zip,
+
+🎈 Age 6
+
+1. man, fan, van, can, boy, toy, joy, boy, cow, bow,
+2. low, sow, row, how, now, sow, hen, den, pen, ten, 
+3. men, den, hen, ken, fin, bin, win, pin, tin, kin, 
+4. rod, cod, nod, pod, god, odd, lid, kid, hid, bid, 
+5. did, rid, mid, aid, maid, laid, paid, said, braid
+
+📖 Age 7
+
+1. book, ball, bell, doll, wall, tall, call, fall, fish, dish,
+2. wish, milk, silk, hill, fill, bill, kill, star, scar, car, 
+3. far, jar, bar, war, bird, word, herd, hand, sand, land, band, 
+4. rain, pain, gain, main, coin, join, moon, noon, soon, room, zoom, 
+5. lamp, damp, camp, ramp, jump, pump, lump, dump, bump, stump
+
+📖 Age 8
+
+1. king, ring, sing, wing, bring, thing, sting, spring, clap, snap,
+2. trap, flap, slap, drip, trip, grip, ship, chip, flip, skip, slip, 
+3. clip, frog, prog, smog, blog, flag, brag, drag, wag, tag, rag, bag,
+4. sack, pack, back, rack, track, black, snack, crack, stack, neck, peck,
+5. deck, check, trek, speck, wreck, duck, luck, tuck, sick , trunk, tight
+
+🏫 Age 9
+
+1. chair, chain, brain, train, grain, plain, water, later, cater, mater,
+2. bread, dread, read, lead, bead, road, load, toad, soap, rope, hope,
+3. cope, nope, game, same, name, fame, tame, came, time, lime, mime, 
+4. fire, hire, wire, tire, mire, school, cool, tool, pool, fool, rule,
+5. mule, fuel, duel, cruel, jewel, level, novel, model, dime,
+
+🏫 Age 10
+
+1. plate, state, crate, date, fate, rate, late, mate, skate, gate,
+2. plane, crane, cane, sane, bane, lane, mane, vane, shame, flame,
+3. blame, frame, claim, aim, team, beam, seam, cream, dream, stream,
+4. scream, gleam, farm, harm, charm, alarm, warm, storm, form, norm,
+5. worm, term, firm, germ, fern, turn, burn, churn, stern, learn, earn
+
+👦 Age 11
+
+1. garden, market, doctor, mother, father, sister, winter, summer, friend, family
+2. school, temple, candle, jungle, river, tower, flower, farmer, hunter, driver
+3. reader, writer, singer, dancer, player, helper, clever, colour, letter, butter
+4. paper, ruler, eraser, marker, pencil, bottle, bottle, mirror, window, pillow
+5. shadow, yellow, follow, narrow, borrow, sorrow, arrow, tomorrow, hollow, shallow 
+
+👦 Age 12
+
+1. teacher, student, picture, country, people, planet, forest, number, animal, mother,
+2. father, brother, sister, cousin, uncle, auntie, farmer, driver, worker, leader,
+3. reader, singer, dancer, runner, jumper, baker, maker, painter, player, hunter,
+4. lawyer, doctor, actor, sailor, tailor, window, rainbow, shadow, meadow, pillow,
+5. fellow, yellow, hollow, swallow, borrow, sorrow, narrow, arrow, tomorrow, sparrow
+
+🧑 Age 13
+
+1. biology, history, culture, science, society, library, problem, project, subject, balance, 
+2. chapter, teacher, student, picture, country, people, planet, forest, number, animal, 
+3. doctor, hospital, temple, school, college, family, cousin, father, mother, sister,
+4. brother, reason, season, lesson, mission, vision, nation, station, action, reaction,
+5. fraction, fiction, motion, notion, devotion, emotion, portion, caution, auction, function
+
+🧑 Age 14
+
+1. language, computer, learning, exercise, practice, chemical, hospital, industry, business, politics,
+2. meeting, program, process, problem, project, subject, object, concept, design, system, 
+3. engine, energy, power, office, worker, manager, teacher, leader, reader, player, 
+4. singer, dancer, driver, farmer, hunter, builder, banker, painter, lawyer, actor, 
+5. doctor, sailor, tailor, pilot, soldier, police, worker, helper, thinker, planner
+
+🎓 Age 15
+
+1. university, literature, machinery, economics, psychology, technology, education, democracy, discovery, population, 
+2. direction, selection, attention, collection, election, correction, perfection, infection, protection, objection,
+3. injection, projection, rejection, affection, detection, reflection, connection, attraction, distraction, instruction,
+4. construction, destruction, obstruction, abstraction, production, reproduction, introduction, conduction, reduction, seduction,
+5. eruption, corruption, eruption, foundation, celebration, imagination, explanation, information, regulation
+
+🎓 Age 16
+
+1. information, government, generation, management, electricity, experiment, mathematics, regulation, foundation, agriculture, 
+2. celebration, explanation, imagination, observation, competition, situation, association, preparation, application, combination, 
+3. communication, organization, transportation, responsibility, international, administration, architecture, environmental, globalization,regulation
+4. entrepreneurship, biotechnology, contribution, institution, corporation, adaptation, meditation, innovation, population, translation,
+5. transformation, representation, dedication, motivation, integration, conversation, appreciation, specialization, determination, regulation
+
+👨 Age 17–25 (progressively harder academic/professional words)
+
+1. communication, transportation, responsibility, international, architecture, environmental, globalization, administration, entrepreneurship, biotechnology
+
+2. accountability, sustainability, infrastructure, collaboration, participation, modernization, industrialization, professionalization, specialization, conceptualization
+
+3. rehabilitation, institutionalization, decentralization, characterization, authentication, representation, implementation, experimentation, documentation, instrumentation
